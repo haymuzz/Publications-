@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Publications — Е. Е. Хаймусов</title>
+  <desc id="desc">Научные статьи и исследовательские материалы</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1224"/>
+      <stop offset="58%" stop-color="#13274B"/>
+      <stop offset="100%" stop-color="#1A3960"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#69E6DB"/>
+      <stop offset="100%" stop-color="#60A5FA"/>
+    </linearGradient>
+    <pattern id="dots" width="34" height="34" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#C6D9FF" opacity=".15"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <rect width="1200" height="300" rx="22" fill="url(#dots)"/>
+  <circle cx="1062" cy="50" r="235" fill="#52A5E9" opacity=".055"/>
+  <circle cx="982" cy="246" r="160" fill="#65D6D1" opacity=".055"/>
+  <rect x="74" y="54" width="53" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="74" y="134" fill="#F8FBFF" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700" letter-spacing="3">PUBLICATIONS</text>
+  <text x="76" y="181" fill="#D9E7FA" font-family="Arial, Helvetica, sans-serif" font-size="22">Научные статьи и исследовательские материалы</text>
+  <text x="76" y="228" fill="#8FE4E0" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="600">Е. Е. Хаймусов</text>
+  <g transform="translate(906 42) rotate(10 110 110)">
+    <rect x="38" y="19" width="171" height="215" rx="14" fill="#233F68" stroke="#7FB8EB" stroke-width="2" opacity=".65"/>
+    <rect x="20" y="8" width="171" height="215" rx="14" fill="#1B335A" stroke="#A3D5F6" stroke-width="2"/>
+    <rect x="45" y="39" width="40" height="40" rx="8" fill="#6EE5D3" opacity=".2"/>
+    <path d="M58 50h14m-14 8h14m-14 8h9" stroke="#83E3DE" stroke-width="3" stroke-linecap="round"/>
+    <path d="M100 50h63M100 65h49M45 103h116M45 121h116M45 139h95M45 176h72" stroke="#97B8DA" stroke-width="5" stroke-linecap="round" opacity=".65"/>
+    <rect x="45" y="189" width="58" height="6" rx="3" fill="#76D9D4"/>
+  </g>
+  <path d="M797 72c36 30 61 38 101 25M788 234c47-24 73-21 106 2" fill="none" stroke="#68C9D5" stroke-width="1.5" opacity=".32"/>
+  <circle cx="817" cy="83" r="5" fill="#6EE7DB" opacity=".6"/>
+  <circle cx="808" cy="224" r="4" fill="#73ADFA" opacity=".7"/>
+</svg>
